@@ -1,0 +1,14 @@
+Your conversation history: 
+User: hi
+
+Agent: Hello! How can I help you today?
+
+User: greratt morning
+
+Agent: Good morning! Hope you’re having a wonderful start to your day. How can I assist you today?
+
+User: xit
+
+Agent: Got it—if you’d like to end the conversation, just let me know. Feel free to return anytime you have a question or need assistance!
+
+End of conversation
